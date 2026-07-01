@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://linkvault.io/sitemap.xml
+Sitemap: https://linkvaultaffiliateprogram.pages.dev/sitemap.xml
